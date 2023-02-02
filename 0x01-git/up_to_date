@@ -1,8 +1,8 @@
+git clone https://{}[github.com/{}[DYOUR USERNAME}/{}[Drepository }
 git config --global user.name
-git config --globla user.email 
-git clone {Your repository link}
-git add ./
-git commit -m "Your commit message"
+git config --global user.email
+git add .
+git commit -m "YOUR MESSAGE"
 git push 
-git branch "Your branch name"
-git checkout "Your branch name"
+git branch "branch name"
+git checkout "branch name"
